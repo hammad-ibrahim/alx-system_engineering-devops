@@ -1,0 +1,2 @@
+#!/bin/bash
+findn . -type f -name "*.js" -delete 
